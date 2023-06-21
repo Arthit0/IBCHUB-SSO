@@ -1,0 +1,1744 @@
+[{
+        "CountryID": 3,
+        "CountryNameTH": "ALGERIA",
+        "CountryNameEN": "ALGERIA",
+        "ContinentID": "02",
+        "CountryCode": "DZ"
+    },
+    {
+        "CountryID": 4,
+        "CountryNameTH": "AMERICAN SAMOA",
+        "CountryNameEN": "AMERICAN SAMOA",
+        "ContinentID": "03",
+        "CountryCode": "AS"
+    },
+    {
+        "CountryID": 6,
+        "CountryNameTH": "ANGOLA",
+        "CountryNameEN": "ANGOLA",
+        "ContinentID": "02",
+        "CountryCode": "AO"
+    },
+    {
+        "CountryID": 8,
+        "CountryNameTH": "ARGENTINA",
+        "CountryNameEN": "ARGENTINA",
+        "ContinentID": "04",
+        "CountryCode": "AR"
+    },
+    {
+        "CountryID": 9,
+        "CountryNameTH": "ARMENIA",
+        "CountryNameEN": "ARMENIA",
+        "ContinentID": "05",
+        "CountryCode": "AM"
+    },
+    {
+        "CountryID": 10,
+        "CountryNameTH": "ARUBA,BONAIRE & CURACAO",
+        "CountryNameEN": "ARUBA,BONAIRE & CURACAO",
+        "ContinentID": "04",
+        "CountryCode": "AB"
+    },
+    {
+        "CountryID": 11,
+        "CountryNameTH": "AUSTRALIA",
+        "CountryNameEN": "AUSTRALIA",
+        "ContinentID": "06",
+        "CountryCode": "AU"
+    },
+    {
+        "CountryID": 12,
+        "CountryNameTH": "AUSTRIA",
+        "CountryNameEN": "AUSTRIA",
+        "ContinentID": "05",
+        "CountryCode": "AT"
+    },
+    {
+        "CountryID": 14,
+        "CountryNameTH": "AZERBAIJAN",
+        "CountryNameEN": "AZERBAIJAN",
+        "ContinentID": "05",
+        "CountryCode": "AZ"
+    },
+    {
+        "CountryID": 15,
+        "CountryNameTH": "BAHAMAS",
+        "CountryNameEN": "BAHAMAS",
+        "ContinentID": "04",
+        "CountryCode": "BS"
+    },
+    {
+        "CountryID": 16,
+        "CountryNameTH": "BAHRAIN",
+        "CountryNameEN": "BAHRAIN",
+        "ContinentID": "01",
+        "CountryCode": "BH"
+    },
+    {
+        "CountryID": 17,
+        "CountryNameTH": "BANGLADESH",
+        "CountryNameEN": "BANGLADESH",
+        "ContinentID": "01",
+        "CountryCode": "BD"
+    },
+    {
+        "CountryID": 18,
+        "CountryNameTH": "BARBADOS",
+        "CountryNameEN": "BARBADOS",
+        "ContinentID": "04",
+        "CountryCode": "BB"
+    },
+    {
+        "CountryID": 19,
+        "CountryNameTH": "BELARUS",
+        "CountryNameEN": "BELARUS",
+        "ContinentID": "05",
+        "CountryCode": "BY"
+    },
+    {
+        "CountryID": 20,
+        "CountryNameTH": "BELGIUM",
+        "CountryNameEN": "BELGIUM",
+        "ContinentID": "05",
+        "CountryCode": "BE"
+    },
+    {
+        "CountryID": 21,
+        "CountryNameTH": "BELIZE",
+        "CountryNameEN": "BELIZE",
+        "ContinentID": "04",
+        "CountryCode": "BZ"
+    },
+    {
+        "CountryID": 22,
+        "CountryNameTH": "BENIN",
+        "CountryNameEN": "BENIN",
+        "ContinentID": "02",
+        "CountryCode": "BJ"
+    },
+    {
+        "CountryID": 23,
+        "CountryNameTH": "BERMUDA",
+        "CountryNameEN": "BERMUDA",
+        "ContinentID": "04",
+        "CountryCode": "BM"
+    },
+    {
+        "CountryID": 24,
+        "CountryNameTH": "BHUTAN",
+        "CountryNameEN": "BHUTAN",
+        "ContinentID": "01",
+        "CountryCode": "BT"
+    },
+    {
+        "CountryID": 25,
+        "CountryNameTH": "BOLIVIA",
+        "CountryNameEN": "BOLIVIA",
+        "ContinentID": "04",
+        "CountryCode": "BO"
+    },
+    {
+        "CountryID": 26,
+        "CountryNameTH": "BOTSWANA",
+        "CountryNameEN": "BOTSWANA",
+        "ContinentID": "02",
+        "CountryCode": "BW"
+    },
+    {
+        "CountryID": 27,
+        "CountryNameTH": "BOUVET ISLAND",
+        "CountryNameEN": "BOUVET ISLAND",
+        "ContinentID": "05",
+        "CountryCode": "BV"
+    },
+    {
+        "CountryID": 28,
+        "CountryNameTH": "BRAZIL",
+        "CountryNameEN": "BRAZIL",
+        "ContinentID": "04",
+        "CountryCode": "BR"
+    },
+    {
+        "CountryID": 29,
+        "CountryNameTH": "BRITISH ANTRACTIC TERRI.",
+        "CountryNameEN": "BRITISH ANTRACTIC TERRI.",
+        "ContinentID": "04",
+        "CountryCode": "BQ"
+    },
+    {
+        "CountryID": 30,
+        "CountryNameTH": "BRITISH VIRGIN ISLANDS",
+        "CountryNameEN": "BRITISH VIRGIN ISLANDS",
+        "ContinentID": "04",
+        "CountryCode": "VG"
+    },
+    {
+        "CountryID": 31,
+        "CountryNameTH": "BRIT. INDIAN OCEAN TERRI.",
+        "CountryNameEN": "BRIT. INDIAN OCEAN TERRI.",
+        "ContinentID": "04",
+        "CountryCode": "IO"
+    },
+    {
+        "CountryID": 32,
+        "CountryNameTH": "BRUNEI DARUSSALAM",
+        "CountryNameEN": "BRUNEI DARUSSALAM",
+        "ContinentID": "01",
+        "CountryCode": "BN"
+    },
+    {
+        "CountryID": 33,
+        "CountryNameTH": "BULGARIA",
+        "CountryNameEN": "BULGARIA",
+        "ContinentID": "05",
+        "CountryCode": "BG"
+    },
+    {
+        "CountryID": 34,
+        "CountryNameTH": "BURKINA FASO",
+        "CountryNameEN": "BURKINA FASO",
+        "ContinentID": "02",
+        "CountryCode": "BF"
+    },
+    {
+        "CountryID": 35,
+        "CountryNameTH": "BURUNDI",
+        "CountryNameEN": "BURUNDI",
+        "ContinentID": "02",
+        "CountryCode": "BI"
+    },
+    {
+        "CountryID": 36,
+        "CountryNameTH": "CAMBODIA",
+        "CountryNameEN": "CAMBODIA",
+        "ContinentID": "01",
+        "CountryCode": "KH"
+    },
+    {
+        "CountryID": 37,
+        "CountryNameTH": "CAMEROON",
+        "CountryNameEN": "CAMEROON",
+        "ContinentID": "02",
+        "CountryCode": "CM"
+    },
+    {
+        "CountryID": 38,
+        "CountryNameTH": "CANADA",
+        "CountryNameEN": "CANADA",
+        "ContinentID": "03",
+        "CountryCode": "CA"
+    },
+    {
+        "CountryID": 39,
+        "CountryNameTH": "CANARY ISLAND",
+        "CountryNameEN": "CANARY ISLAND",
+        "ContinentID": "02",
+        "CountryCode": "SP"
+    },
+    {
+        "CountryID": 40,
+        "CountryNameTH": "CANTON AND ENDERBURY ISLA",
+        "CountryNameEN": "CANTON AND ENDERBURY ISLA",
+        "ContinentID": "01",
+        "CountryCode": "CT"
+    },
+    {
+        "CountryID": 41,
+        "CountryNameTH": "CAPE VERDE",
+        "CountryNameEN": "CAPE VERDE",
+        "ContinentID": "02",
+        "CountryCode": "CV"
+    },
+    {
+        "CountryID": 42,
+        "CountryNameTH": "CAYMAN ISLANDS",
+        "CountryNameEN": "CAYMAN ISLANDS",
+        "ContinentID": "04",
+        "CountryCode": "KY"
+    },
+    {
+        "CountryID": 43,
+        "CountryNameTH": "CENTRAL AFRICAN REPUBLIC",
+        "CountryNameEN": "CENTRAL AFRICAN REPUBLIC",
+        "ContinentID": "02",
+        "CountryCode": "CF"
+    },
+    {
+        "CountryID": 44,
+        "CountryNameTH": "CHAD",
+        "CountryNameEN": "CHAD",
+        "ContinentID": "02",
+        "CountryCode": "TD"
+    },
+    {
+        "CountryID": 45,
+        "CountryNameTH": "CHILE",
+        "CountryNameEN": "CHILE",
+        "ContinentID": "04",
+        "CountryCode": "CL"
+    },
+    {
+        "CountryID": 46,
+        "CountryNameTH": "CHINA",
+        "CountryNameEN": "CHINA",
+        "ContinentID": "01",
+        "CountryCode": "CN"
+    },
+    {
+        "CountryID": 47,
+        "CountryNameTH": "CHRISTMAS ISLAND",
+        "CountryNameEN": "CHRISTMAS ISLAND",
+        "ContinentID": "01",
+        "CountryCode": "CX"
+    },
+    {
+        "CountryID": 48,
+        "CountryNameTH": "COCOS(KEELING) ISLANDS",
+        "CountryNameEN": "COCOS(KEELING) ISLANDS",
+        "ContinentID": "01",
+        "CountryCode": "CC"
+    },
+    {
+        "CountryID": 49,
+        "CountryNameTH": "COLOMBIA",
+        "CountryNameEN": "COLOMBIA",
+        "ContinentID": "04",
+        "CountryCode": "CO"
+    },
+    {
+        "CountryID": 50,
+        "CountryNameTH": "COMOROS",
+        "CountryNameEN": "COMOROS",
+        "ContinentID": "02",
+        "CountryCode": "KM"
+    },
+    {
+        "CountryID": 51,
+        "CountryNameTH": "CONGO(THE)",
+        "CountryNameEN": "CONGO(THE)",
+        "ContinentID": "02",
+        "CountryCode": "CG"
+    },
+    {
+        "CountryID": 52,
+        "CountryNameTH": "COOK ISLANDS",
+        "CountryNameEN": "COOK ISLANDS",
+        "ContinentID": "06",
+        "CountryCode": "CK"
+    },
+    {
+        "CountryID": 53,
+        "CountryNameTH": "COSTA RICA",
+        "CountryNameEN": "COSTA RICA",
+        "ContinentID": "04",
+        "CountryCode": "CR"
+    },
+    {
+        "CountryID": 54,
+        "CountryNameTH": "IVORY COAST",
+        "CountryNameEN": "IVORY COAST",
+        "ContinentID": "02",
+        "CountryCode": "CI"
+    },
+    {
+        "CountryID": 55,
+        "CountryNameTH": "CROATIA",
+        "CountryNameEN": "CROATIA",
+        "ContinentID": "05",
+        "CountryCode": "HR"
+    },
+    {
+        "CountryID": 56,
+        "CountryNameTH": "CUBA",
+        "CountryNameEN": "CUBA",
+        "ContinentID": "04",
+        "CountryCode": "CU"
+    },
+    {
+        "CountryID": 57,
+        "CountryNameTH": "CYPRUS",
+        "CountryNameEN": "CYPRUS",
+        "ContinentID": "01",
+        "CountryCode": "CY"
+    },
+    {
+        "CountryID": 58,
+        "CountryNameTH": "CZECH REPUBLIC",
+        "CountryNameEN": "CZECH REPUBLIC",
+        "ContinentID": "05",
+        "CountryCode": "CZ"
+    },
+    {
+        "CountryID": 59,
+        "CountryNameTH": "CZECHOSLOVAKIA",
+        "CountryNameEN": "CZECHOSLOVAKIA",
+        "ContinentID": "05",
+        "CountryCode": "CS"
+    },
+    {
+        "CountryID": 60,
+        "CountryNameTH": "DENMARK",
+        "CountryNameEN": "DENMARK",
+        "ContinentID": "05",
+        "CountryCode": "DK"
+    },
+    {
+        "CountryID": 61,
+        "CountryNameTH": "DJIBOUTI",
+        "CountryNameEN": "DJIBOUTI",
+        "ContinentID": "02",
+        "CountryCode": "DJ"
+    },
+    {
+        "CountryID": 62,
+        "CountryNameTH": "DOMINICA",
+        "CountryNameEN": "DOMINICA",
+        "ContinentID": "04",
+        "CountryCode": "DM"
+    },
+    {
+        "CountryID": 63,
+        "CountryNameTH": "DOMINICAN REPUBLIC(THE)",
+        "CountryNameEN": "DOMINICAN REPUBLIC(THE)",
+        "ContinentID": "04",
+        "CountryCode": "DO"
+    },
+    {
+        "CountryID": 64,
+        "CountryNameTH": "DRONNING MAUD LAND",
+        "CountryNameEN": "DRONNING MAUD LAND",
+        "ContinentID": "02",
+        "CountryCode": "NQ"
+    },
+    {
+        "CountryID": 65,
+        "CountryNameTH": "EAST TIMOR",
+        "CountryNameEN": "EAST TIMOR",
+        "ContinentID": "04",
+        "CountryCode": "TP"
+    },
+    {
+        "CountryID": 66,
+        "CountryNameTH": "ECUADOR",
+        "CountryNameEN": "ECUADOR",
+        "ContinentID": "04",
+        "CountryCode": "EC"
+    },
+    {
+        "CountryID": 67,
+        "CountryNameTH": "EGYPT",
+        "CountryNameEN": "EGYPT",
+        "ContinentID": "02",
+        "CountryCode": "EG"
+    },
+    {
+        "CountryID": 68,
+        "CountryNameTH": "EL SALVADOR",
+        "CountryNameEN": "EL SALVADOR",
+        "ContinentID": "04",
+        "CountryCode": "SV"
+    },
+    {
+        "CountryID": 69,
+        "CountryNameTH": "EQUATORIAL GUINEA",
+        "CountryNameEN": "EQUATORIAL GUINEA",
+        "ContinentID": "02",
+        "CountryCode": "GQ"
+    },
+    {
+        "CountryID": 70,
+        "CountryNameTH": "ESTONIA",
+        "CountryNameEN": "ESTONIA",
+        "ContinentID": "05",
+        "CountryCode": "EE"
+    },
+    {
+        "CountryID": 71,
+        "CountryNameTH": "ETHIOPIA",
+        "CountryNameEN": "ETHIOPIA",
+        "ContinentID": "02",
+        "CountryCode": "ET"
+    },
+    {
+        "CountryID": 72,
+        "CountryNameTH": "FAEROE ISLANDS",
+        "CountryNameEN": "FAEROE ISLANDS",
+        "ContinentID": "05",
+        "CountryCode": "FO"
+    },
+    {
+        "CountryID": 73,
+        "CountryNameTH": "FALKLAND ISLANDS",
+        "CountryNameEN": "FALKLAND ISLANDS",
+        "ContinentID": "04",
+        "CountryCode": "FK"
+    },
+    {
+        "CountryID": 74,
+        "CountryNameTH": "FIJI",
+        "CountryNameEN": "FIJI",
+        "ContinentID": "04",
+        "CountryCode": "FJ"
+    },
+    {
+        "CountryID": 75,
+        "CountryNameTH": "FINLAND",
+        "CountryNameEN": "FINLAND",
+        "ContinentID": "05",
+        "CountryCode": "FI"
+    },
+    {
+        "CountryID": 76,
+        "CountryNameTH": "FRANCE",
+        "CountryNameEN": "FRANCE",
+        "ContinentID": "05",
+        "CountryCode": "FR"
+    },
+    {
+        "CountryID": 77,
+        "CountryNameTH": "FRENCH GUIANA",
+        "CountryNameEN": "FRENCH GUIANA",
+        "ContinentID": "04",
+        "CountryCode": "GF"
+    },
+    {
+        "CountryID": 78,
+        "CountryNameTH": "FRENCH POLYNESIA",
+        "CountryNameEN": "FRENCH POLYNESIA",
+        "ContinentID": "05",
+        "CountryCode": "PF"
+    },
+    {
+        "CountryID": 79,
+        "CountryNameTH": "FRENCH SOUTHERN AND ANTAR",
+        "CountryNameEN": "FRENCH SOUTHERN AND ANTAR",
+        "ContinentID": "05",
+        "CountryCode": "FQ"
+    },
+    {
+        "CountryID": 80,
+        "CountryNameTH": "GABON",
+        "CountryNameEN": "GABON",
+        "ContinentID": "02",
+        "CountryCode": "GA"
+    },
+    {
+        "CountryID": 81,
+        "CountryNameTH": "GAMBIA (THE)",
+        "CountryNameEN": "GAMBIA (THE)",
+        "ContinentID": "02",
+        "CountryCode": "GM"
+    },
+    {
+        "CountryID": 82,
+        "CountryNameTH": "GEORGIA",
+        "CountryNameEN": "GEORGIA",
+        "ContinentID": "05",
+        "CountryCode": "GE"
+    },
+    {
+        "CountryID": 83,
+        "CountryNameTH": "GERMANY",
+        "CountryNameEN": "GERMANY",
+        "ContinentID": "05",
+        "CountryCode": "DE"
+    },
+    {
+        "CountryID": 84,
+        "CountryNameTH": "GHANA",
+        "CountryNameEN": "GHANA",
+        "ContinentID": "02",
+        "CountryCode": "GH"
+    },
+    {
+        "CountryID": 85,
+        "CountryNameTH": "GIBRALTAR",
+        "CountryNameEN": "GIBRALTAR",
+        "ContinentID": "05",
+        "CountryCode": "GI"
+    },
+    {
+        "CountryID": 86,
+        "CountryNameTH": "GREECE",
+        "CountryNameEN": "GREECE",
+        "ContinentID": "05",
+        "CountryCode": "GR"
+    },
+    {
+        "CountryID": 87,
+        "CountryNameTH": "GREENLAND",
+        "CountryNameEN": "GREENLAND",
+        "ContinentID": "05",
+        "CountryCode": "GL"
+    },
+    {
+        "CountryID": 88,
+        "CountryNameTH": "GRENADA",
+        "CountryNameEN": "GRENADA",
+        "ContinentID": "04",
+        "CountryCode": "GD"
+    },
+    {
+        "CountryID": 89,
+        "CountryNameTH": "GUADELOUPE",
+        "CountryNameEN": "GUADELOUPE",
+        "ContinentID": "04",
+        "CountryCode": "GP"
+    },
+    {
+        "CountryID": 90,
+        "CountryNameTH": "GUAM",
+        "CountryNameEN": "GUAM",
+        "ContinentID": "01",
+        "CountryCode": "GU"
+    },
+    {
+        "CountryID": 91,
+        "CountryNameTH": "GUATEMALA",
+        "CountryNameEN": "GUATEMALA",
+        "ContinentID": "04",
+        "CountryCode": "GT"
+    },
+    {
+        "CountryID": 92,
+        "CountryNameTH": "GUINEA",
+        "CountryNameEN": "GUINEA",
+        "ContinentID": "02",
+        "CountryCode": "GN"
+    },
+    {
+        "CountryID": 93,
+        "CountryNameTH": "GUINEA-BISSAU",
+        "CountryNameEN": "GUINEA-BISSAU",
+        "ContinentID": "02",
+        "CountryCode": "GW"
+    },
+    {
+        "CountryID": 94,
+        "CountryNameTH": "GUYANA",
+        "CountryNameEN": "GUYANA",
+        "ContinentID": "04",
+        "CountryCode": "GY"
+    },
+    {
+        "CountryID": 95,
+        "CountryNameTH": "HAITI",
+        "CountryNameEN": "HAITI",
+        "ContinentID": "04",
+        "CountryCode": "HT"
+    },
+    {
+        "CountryID": 96,
+        "CountryNameTH": "HEARD AND MCDONALD ISLAND",
+        "CountryNameEN": "HEARD AND MCDONALD ISLAND",
+        "ContinentID": "05",
+        "CountryCode": "HM"
+    },
+    {
+        "CountryID": 97,
+        "CountryNameTH": "HOLY SEE (THE)",
+        "CountryNameEN": "HOLY SEE (THE)",
+        "ContinentID": "04",
+        "CountryCode": "VA"
+    },
+    {
+        "CountryID": 98,
+        "CountryNameTH": "HONDURAS",
+        "CountryNameEN": "HONDURAS",
+        "ContinentID": "04",
+        "CountryCode": "HN"
+    },
+    {
+        "CountryID": 99,
+        "CountryNameTH": "HONG KONG",
+        "CountryNameEN": "HONG KONG",
+        "ContinentID": "01",
+        "CountryCode": "HK"
+    },
+    {
+        "CountryID": 100,
+        "CountryNameTH": "HUNGARY",
+        "CountryNameEN": "HUNGARY",
+        "ContinentID": "05",
+        "CountryCode": "HU"
+    },
+    {
+        "CountryID": 101,
+        "CountryNameTH": "ICELAND",
+        "CountryNameEN": "ICELAND",
+        "ContinentID": "05",
+        "CountryCode": "IS"
+    },
+    {
+        "CountryID": 102,
+        "CountryNameTH": "INDIA",
+        "CountryNameEN": "INDIA",
+        "ContinentID": "01",
+        "CountryCode": "IN"
+    },
+    {
+        "CountryID": 103,
+        "CountryNameTH": "INDONESIA",
+        "CountryNameEN": "INDONESIA",
+        "ContinentID": "01",
+        "CountryCode": "ID"
+    },
+    {
+        "CountryID": 104,
+        "CountryNameTH": "IRAN",
+        "CountryNameEN": "IRAN",
+        "ContinentID": "01",
+        "CountryCode": "IR"
+    },
+    {
+        "CountryID": 105,
+        "CountryNameTH": "IRAQ",
+        "CountryNameEN": "IRAQ",
+        "ContinentID": "01",
+        "CountryCode": "IQ"
+    },
+    {
+        "CountryID": 106,
+        "CountryNameTH": "IRELAND",
+        "CountryNameEN": "IRELAND",
+        "ContinentID": "05",
+        "CountryCode": "IE"
+    },
+    {
+        "CountryID": 107,
+        "CountryNameTH": "ISRAEL",
+        "CountryNameEN": "ISRAEL",
+        "ContinentID": "01",
+        "CountryCode": "IL"
+    },
+    {
+        "CountryID": 108,
+        "CountryNameTH": "ITALY",
+        "CountryNameEN": "ITALY",
+        "ContinentID": "05",
+        "CountryCode": "IT"
+    },
+    {
+        "CountryID": 109,
+        "CountryNameTH": "JAMAICA",
+        "CountryNameEN": "JAMAICA",
+        "ContinentID": "04",
+        "CountryCode": "JM"
+    },
+    {
+        "CountryID": 110,
+        "CountryNameTH": "JAPAN",
+        "CountryNameEN": "JAPAN",
+        "ContinentID": "01",
+        "CountryCode": "JP"
+    },
+    {
+        "CountryID": 111,
+        "CountryNameTH": "JOHNSTON ISLAND",
+        "CountryNameEN": "JOHNSTON ISLAND",
+        "ContinentID": "05",
+        "CountryCode": "JT"
+    },
+    {
+        "CountryID": 112,
+        "CountryNameTH": "JORDAN",
+        "CountryNameEN": "JORDAN",
+        "ContinentID": "01",
+        "CountryCode": "JO"
+    },
+    {
+        "CountryID": 113,
+        "CountryNameTH": "KAZAKHSTAN",
+        "CountryNameEN": "KAZAKHSTAN",
+        "ContinentID": "05",
+        "CountryCode": "KZ"
+    },
+    {
+        "CountryID": 114,
+        "CountryNameTH": "KENYA",
+        "CountryNameEN": "KENYA",
+        "ContinentID": "02",
+        "CountryCode": "KE"
+    },
+    {
+        "CountryID": 115,
+        "CountryNameTH": "KIRIBATI",
+        "CountryNameEN": "KIRIBATI",
+        "ContinentID": "04",
+        "CountryCode": "KI"
+    },
+    {
+        "CountryID": 116,
+        "CountryNameTH": "KOREA NORTH DEMOCRATIC(THE)",
+        "CountryNameEN": "KOREA NORTH DEMOCRATIC(THE)",
+        "ContinentID": "01",
+        "CountryCode": "KP"
+    },
+    {
+        "CountryID": 117,
+        "CountryNameTH": "KOREA SOUTH REPUBLIC(THE)",
+        "CountryNameEN": "KOREA SOUTH REPUBLIC(THE)",
+        "ContinentID": "01",
+        "CountryCode": "KR"
+    },
+    {
+        "CountryID": 118,
+        "CountryNameTH": "KUWAIT",
+        "CountryNameEN": "KUWAIT",
+        "ContinentID": "01",
+        "CountryCode": "KW"
+    },
+    {
+        "CountryID": 119,
+        "CountryNameTH": "KYRGYZSTAN",
+        "CountryNameEN": "KYRGYZSTAN",
+        "ContinentID": "05",
+        "CountryCode": "KG"
+    },
+    {
+        "CountryID": 120,
+        "CountryNameTH": "LAOS",
+        "CountryNameEN": "LAOS",
+        "ContinentID": "01",
+        "CountryCode": "LA"
+    },
+    {
+        "CountryID": 121,
+        "CountryNameTH": "LATVIA",
+        "CountryNameEN": "LATVIA",
+        "ContinentID": "05",
+        "CountryCode": "LV"
+    },
+    {
+        "CountryID": 122,
+        "CountryNameTH": "LEBANON",
+        "CountryNameEN": "LEBANON",
+        "ContinentID": "01",
+        "CountryCode": "LB"
+    },
+    {
+        "CountryID": 123,
+        "CountryNameTH": "LESOTHO",
+        "CountryNameEN": "LESOTHO",
+        "ContinentID": "02",
+        "CountryCode": "LS"
+    },
+    {
+        "CountryID": 124,
+        "CountryNameTH": "LIBERIA",
+        "CountryNameEN": "LIBERIA",
+        "ContinentID": "02",
+        "CountryCode": "LR"
+    },
+    {
+        "CountryID": 125,
+        "CountryNameTH": "LIBYA  ARAB JAMAHIRIYA",
+        "CountryNameEN": "LIBYA  ARAB JAMAHIRIYA",
+        "ContinentID": "02",
+        "CountryCode": "LY"
+    },
+    {
+        "CountryID": 126,
+        "CountryNameTH": "LIECHTENSTEIN",
+        "CountryNameEN": "LIECHTENSTEIN",
+        "ContinentID": "05",
+        "CountryCode": "LI"
+    },
+    {
+        "CountryID": 127,
+        "CountryNameTH": "LITHUANIA",
+        "CountryNameEN": "LITHUANIA",
+        "ContinentID": "05",
+        "CountryCode": "LT"
+    },
+    {
+        "CountryID": 128,
+        "CountryNameTH": "LUXEMBOURG",
+        "CountryNameEN": "LUXEMBOURG",
+        "ContinentID": "05",
+        "CountryCode": "LU"
+    },
+    {
+        "CountryID": 129,
+        "CountryNameTH": "MACAO",
+        "CountryNameEN": "MACAO",
+        "ContinentID": "01",
+        "CountryCode": "MO"
+    },
+    {
+        "CountryID": 130,
+        "CountryNameTH": "MADAGASCAR",
+        "CountryNameEN": "MADAGASCAR",
+        "ContinentID": "02",
+        "CountryCode": "MG"
+    },
+    {
+        "CountryID": 131,
+        "CountryNameTH": "MALAWI",
+        "CountryNameEN": "MALAWI",
+        "ContinentID": "02",
+        "CountryCode": "MW"
+    },
+    {
+        "CountryID": 132,
+        "CountryNameTH": "MALAYSIA",
+        "CountryNameEN": "MALAYSIA",
+        "ContinentID": "01",
+        "CountryCode": "MY"
+    },
+    {
+        "CountryID": 133,
+        "CountryNameTH": "MALDIVES",
+        "CountryNameEN": "MALDIVES",
+        "ContinentID": "01",
+        "CountryCode": "MV"
+    },
+    {
+        "CountryID": 134,
+        "CountryNameTH": "MALI",
+        "CountryNameEN": "MALI",
+        "ContinentID": "02",
+        "CountryCode": "ML"
+    },
+    {
+        "CountryID": 135,
+        "CountryNameTH": "MALTA",
+        "CountryNameEN": "MALTA",
+        "ContinentID": "05",
+        "CountryCode": "MT"
+    },
+    {
+        "CountryID": 136,
+        "CountryNameTH": "MARTINIQUE",
+        "CountryNameEN": "MARTINIQUE",
+        "ContinentID": "04",
+        "CountryCode": "MQ"
+    },
+    {
+        "CountryID": 137,
+        "CountryNameTH": "MAURITANIA",
+        "CountryNameEN": "MAURITANIA",
+        "ContinentID": "02",
+        "CountryCode": "MR"
+    },
+    {
+        "CountryID": 138,
+        "CountryNameTH": "MAURITIUS",
+        "CountryNameEN": "MAURITIUS",
+        "ContinentID": "02",
+        "CountryCode": "MU"
+    },
+    {
+        "CountryID": 139,
+        "CountryNameTH": "MEXICO",
+        "CountryNameEN": "MEXICO",
+        "ContinentID": "04",
+        "CountryCode": "MX"
+    },
+    {
+        "CountryID": 140,
+        "CountryNameTH": "MIDMAY ISLANDS",
+        "CountryNameEN": "MIDMAY ISLANDS",
+        "ContinentID": "05",
+        "CountryCode": "MI"
+    },
+    {
+        "CountryID": 141,
+        "CountryNameTH": "MOLDOVA REPUBLIC",
+        "CountryNameEN": "MOLDOVA REPUBLIC",
+        "ContinentID": "05",
+        "CountryCode": "MD"
+    },
+    {
+        "CountryID": 142,
+        "CountryNameTH": "MONACO",
+        "CountryNameEN": "MONACO",
+        "ContinentID": "05",
+        "CountryCode": "MC"
+    },
+    {
+        "CountryID": 143,
+        "CountryNameTH": "MONGOLIA",
+        "CountryNameEN": "MONGOLIA",
+        "ContinentID": "01",
+        "CountryCode": "MN"
+    },
+    {
+        "CountryID": 144,
+        "CountryNameTH": "MONTSERRAT",
+        "CountryNameEN": "MONTSERRAT",
+        "ContinentID": "04",
+        "CountryCode": "MS"
+    },
+    {
+        "CountryID": 145,
+        "CountryNameTH": "MOROCCO",
+        "CountryNameEN": "MOROCCO",
+        "ContinentID": "02",
+        "CountryCode": "MA"
+    },
+    {
+        "CountryID": 146,
+        "CountryNameTH": "MOZAMBIQUE",
+        "CountryNameEN": "MOZAMBIQUE",
+        "ContinentID": "02",
+        "CountryCode": "MZ"
+    },
+    {
+        "CountryID": 147,
+        "CountryNameTH": "MYANMAR",
+        "CountryNameEN": "MYANMAR",
+        "ContinentID": "01",
+        "CountryCode": "MM"
+    },
+    {
+        "CountryID": 148,
+        "CountryNameTH": "NAMIBIA",
+        "CountryNameEN": "NAMIBIA",
+        "ContinentID": "02",
+        "CountryCode": "NA"
+    },
+    {
+        "CountryID": 149,
+        "CountryNameTH": "NAURU",
+        "CountryNameEN": "NAURU",
+        "ContinentID": "01",
+        "CountryCode": "NR"
+    },
+    {
+        "CountryID": 150,
+        "CountryNameTH": "NEPAL",
+        "CountryNameEN": "NEPAL",
+        "ContinentID": "01",
+        "CountryCode": "NP"
+    },
+    {
+        "CountryID": 151,
+        "CountryNameTH": "NETHERLANDS(THE)",
+        "CountryNameEN": "NETHERLANDS(THE)",
+        "ContinentID": "05",
+        "CountryCode": "NL"
+    },
+    {
+        "CountryID": 152,
+        "CountryNameTH": "NEUTRAL ZONE",
+        "CountryNameEN": "NEUTRAL ZONE",
+        "ContinentID": "02",
+        "CountryCode": "NT"
+    },
+    {
+        "CountryID": 153,
+        "CountryNameTH": "NEW CALEDONIA",
+        "CountryNameEN": "NEW CALEDONIA",
+        "ContinentID": "05",
+        "CountryCode": "NC"
+    },
+    {
+        "CountryID": 154,
+        "CountryNameTH": "NEW ZEALAND",
+        "CountryNameEN": "NEW ZEALAND",
+        "ContinentID": "06",
+        "CountryCode": "NZ"
+    },
+    {
+        "CountryID": 155,
+        "CountryNameTH": "NICARAGUA",
+        "CountryNameEN": "NICARAGUA",
+        "ContinentID": "04",
+        "CountryCode": "NI"
+    },
+    {
+        "CountryID": 156,
+        "CountryNameTH": "NIGER (THE)",
+        "CountryNameEN": "NIGER (THE)",
+        "ContinentID": "02",
+        "CountryCode": "NE"
+    },
+    {
+        "CountryID": 157,
+        "CountryNameTH": "NIGERIA",
+        "CountryNameEN": "NIGERIA",
+        "ContinentID": "02",
+        "CountryCode": "NG"
+    },
+    {
+        "CountryID": 158,
+        "CountryNameTH": "NIUE",
+        "CountryNameEN": "NIUE",
+        "ContinentID": "04",
+        "CountryCode": "NU"
+    },
+    {
+        "CountryID": 159,
+        "CountryNameTH": "NORFOLK ISLAND",
+        "CountryNameEN": "NORFOLK ISLAND",
+        "ContinentID": "05",
+        "CountryCode": "NF"
+    },
+    {
+        "CountryID": 160,
+        "CountryNameTH": "NORWAY",
+        "CountryNameEN": "NORWAY",
+        "ContinentID": "05",
+        "CountryCode": "NO"
+    },
+    {
+        "CountryID": 161,
+        "CountryNameTH": "OMAN",
+        "CountryNameEN": "OMAN",
+        "ContinentID": "01",
+        "CountryCode": "OM"
+    },
+    {
+        "CountryID": 162,
+        "CountryNameTH": "PACIFIC ISLANDS",
+        "CountryNameEN": "PACIFIC ISLANDS",
+        "ContinentID": "05",
+        "CountryCode": "PC"
+    },
+    {
+        "CountryID": 163,
+        "CountryNameTH": "PAKISTAN",
+        "CountryNameEN": "PAKISTAN",
+        "ContinentID": "01",
+        "CountryCode": "PK"
+    },
+    {
+        "CountryID": 164,
+        "CountryNameTH": "PALESTINE",
+        "CountryNameEN": "PALESTINE",
+        "ContinentID": "01",
+        "CountryCode": "PO"
+    },
+    {
+        "CountryID": 165,
+        "CountryNameTH": "PANAMA",
+        "CountryNameEN": "PANAMA",
+        "ContinentID": "04",
+        "CountryCode": "PA"
+    },
+    {
+        "CountryID": 166,
+        "CountryNameTH": "PANAMA CANAL ZONE",
+        "CountryNameEN": "PANAMA CANAL ZONE",
+        "ContinentID": "04",
+        "CountryCode": "PZ"
+    },
+    {
+        "CountryID": 167,
+        "CountryNameTH": "PAPUA NEW GUINEA",
+        "CountryNameEN": "PAPUA NEW GUINEA",
+        "ContinentID": "05",
+        "CountryCode": "PG"
+    },
+    {
+        "CountryID": 168,
+        "CountryNameTH": "PARAGUAY",
+        "CountryNameEN": "PARAGUAY",
+        "ContinentID": "04",
+        "CountryCode": "PY"
+    },
+    {
+        "CountryID": 169,
+        "CountryNameTH": "PERU",
+        "CountryNameEN": "PERU",
+        "ContinentID": "04",
+        "CountryCode": "PE"
+    },
+    {
+        "CountryID": 170,
+        "CountryNameTH": "PHILIPPINES",
+        "CountryNameEN": "PHILIPPINES",
+        "ContinentID": "01",
+        "CountryCode": "PH"
+    },
+    {
+        "CountryID": 171,
+        "CountryNameTH": "PITCAIRN ISLAND",
+        "CountryNameEN": "PITCAIRN ISLAND",
+        "ContinentID": "05",
+        "CountryCode": "PN"
+    },
+    {
+        "CountryID": 172,
+        "CountryNameTH": "POLAND",
+        "CountryNameEN": "POLAND",
+        "ContinentID": "05",
+        "CountryCode": "PL"
+    },
+    {
+        "CountryID": 173,
+        "CountryNameTH": "PORTUGAL",
+        "CountryNameEN": "PORTUGAL",
+        "ContinentID": "05",
+        "CountryCode": "PT"
+    },
+    {
+        "CountryID": 174,
+        "CountryNameTH": "PUERTO RICO",
+        "CountryNameEN": "PUERTO RICO",
+        "ContinentID": "04",
+        "CountryCode": "PR"
+    },
+    {
+        "CountryID": 175,
+        "CountryNameTH": "QATAR",
+        "CountryNameEN": "QATAR",
+        "ContinentID": "01",
+        "CountryCode": "QA"
+    },
+    {
+        "CountryID": 176,
+        "CountryNameTH": "REUNION",
+        "CountryNameEN": "REUNION",
+        "ContinentID": "02",
+        "CountryCode": "RE"
+    },
+    {
+        "CountryID": 177,
+        "CountryNameTH": "ROMANIA",
+        "CountryNameEN": "ROMANIA",
+        "ContinentID": "05",
+        "CountryCode": "RO"
+    },
+    {
+        "CountryID": 178,
+        "CountryNameTH": "RUSSIA",
+        "CountryNameEN": "RUSSIA",
+        "ContinentID": "05",
+        "CountryCode": "RU"
+    },
+    {
+        "CountryID": 179,
+        "CountryNameTH": "RWANDA",
+        "CountryNameEN": "RWANDA",
+        "ContinentID": "02",
+        "CountryCode": "RW"
+    },
+    {
+        "CountryID": 180,
+        "CountryNameTH": "ST. HELENA",
+        "CountryNameEN": "ST. HELENA",
+        "ContinentID": "02",
+        "CountryCode": "SH"
+    },
+    {
+        "CountryID": 181,
+        "CountryNameTH": "ST.CHRISTOPHER AND NEVIS",
+        "CountryNameEN": "ST.CHRISTOPHER AND NEVIS",
+        "ContinentID": "04",
+        "CountryCode": "KN"
+    },
+    {
+        "CountryID": 182,
+        "CountryNameTH": "SAINT LUCIA",
+        "CountryNameEN": "SAINT LUCIA",
+        "ContinentID": "04",
+        "CountryCode": "LC"
+    },
+    {
+        "CountryID": 183,
+        "CountryNameTH": "SAINT PIERRE AND MIQUELON",
+        "CountryNameEN": "SAINT PIERRE AND MIQUELON",
+        "ContinentID": "04",
+        "CountryCode": "PM"
+    },
+    {
+        "CountryID": 184,
+        "CountryNameTH": "SAINT VINCENT AND GRENA.",
+        "CountryNameEN": "SAINT VINCENT AND GRENA.",
+        "ContinentID": "04",
+        "CountryCode": "VC"
+    },
+    {
+        "CountryID": 185,
+        "CountryNameTH": "SAMOAUNA",
+        "CountryNameEN": "SAMOAUNA",
+        "ContinentID": "02",
+        "CountryCode": "WS"
+    },
+    {
+        "CountryID": 186,
+        "CountryNameTH": "SAN MARINO",
+        "CountryNameEN": "SAN MARINO",
+        "ContinentID": "05",
+        "CountryCode": "SM"
+    },
+    {
+        "CountryID": 187,
+        "CountryNameTH": "SAO TOME AND PRINCIPE",
+        "CountryNameEN": "SAO TOME AND PRINCIPE",
+        "ContinentID": "02",
+        "CountryCode": "ST"
+    },
+    {
+        "CountryID": 188,
+        "CountryNameTH": "SAUDI ARABIA",
+        "CountryNameEN": "SAUDI ARABIA",
+        "ContinentID": "01",
+        "CountryCode": "SA"
+    },
+    {
+        "CountryID": 189,
+        "CountryNameTH": "SCOTLAND",
+        "CountryNameEN": "SCOTLAND",
+        "ContinentID": "05",
+        "CountryCode": "ZC"
+    },
+    {
+        "CountryID": 190,
+        "CountryNameTH": "SENEGAL",
+        "CountryNameEN": "SENEGAL",
+        "ContinentID": "02",
+        "CountryCode": "SN"
+    },
+    {
+        "CountryID": 191,
+        "CountryNameTH": "SEYCHELLES",
+        "CountryNameEN": "SEYCHELLES",
+        "ContinentID": "02",
+        "CountryCode": "SC"
+    },
+    {
+        "CountryID": 192,
+        "CountryNameTH": "SIERRA LEONE",
+        "CountryNameEN": "SIERRA LEONE",
+        "ContinentID": "02",
+        "CountryCode": "SL"
+    },
+    {
+        "CountryID": 193,
+        "CountryNameTH": "SINGAPORE",
+        "CountryNameEN": "SINGAPORE",
+        "ContinentID": "01",
+        "CountryCode": "SG"
+    },
+    {
+        "CountryID": 194,
+        "CountryNameTH": "SLOVAK REP.",
+        "CountryNameEN": "SLOVAK REP.",
+        "ContinentID": "05",
+        "CountryCode": "SK"
+    },
+    {
+        "CountryID": 195,
+        "CountryNameTH": "SLOVENIA",
+        "CountryNameEN": "SLOVENIA",
+        "ContinentID": "05",
+        "CountryCode": "SI"
+    },
+    {
+        "CountryID": 196,
+        "CountryNameTH": "SOLOMON ISLANDS",
+        "CountryNameEN": "SOLOMON ISLANDS",
+        "ContinentID": "05",
+        "CountryCode": "SB"
+    },
+    {
+        "CountryID": 197,
+        "CountryNameTH": "SOMALIA",
+        "CountryNameEN": "SOMALIA",
+        "ContinentID": "02",
+        "CountryCode": "SO"
+    },
+    {
+        "CountryID": 198,
+        "CountryNameTH": "SOUTH AFRICA",
+        "CountryNameEN": "SOUTH AFRICA",
+        "ContinentID": "02",
+        "CountryCode": "ZA"
+    },
+    {
+        "CountryID": 199,
+        "CountryNameTH": "SPAIN",
+        "CountryNameEN": "SPAIN",
+        "ContinentID": "05",
+        "CountryCode": "ES"
+    },
+    {
+        "CountryID": 200,
+        "CountryNameTH": "SRI LANKA",
+        "CountryNameEN": "SRI LANKA",
+        "ContinentID": "01",
+        "CountryCode": "LK"
+    },
+    {
+        "CountryID": 201,
+        "CountryNameTH": "SUDAN(THE)",
+        "CountryNameEN": "SUDAN(THE)",
+        "ContinentID": "02",
+        "CountryCode": "SD"
+    },
+    {
+        "CountryID": 202,
+        "CountryNameTH": "SURINAME",
+        "CountryNameEN": "SURINAME",
+        "ContinentID": "04",
+        "CountryCode": "SR"
+    },
+    {
+        "CountryID": 203,
+        "CountryNameTH": "SVALBARD AND JAN MAYEN IS",
+        "CountryNameEN": "SVALBARD AND JAN MAYEN IS",
+        "ContinentID": "05",
+        "CountryCode": "SJ"
+    },
+    {
+        "CountryID": 204,
+        "CountryNameTH": "SWAZILAND",
+        "CountryNameEN": "SWAZILAND",
+        "ContinentID": "02",
+        "CountryCode": "SZ"
+    },
+    {
+        "CountryID": 205,
+        "CountryNameTH": "SWEDEN",
+        "CountryNameEN": "SWEDEN",
+        "ContinentID": "05",
+        "CountryCode": "SE"
+    },
+    {
+        "CountryID": 206,
+        "CountryNameTH": "SWITZERLAND",
+        "CountryNameEN": "SWITZERLAND",
+        "ContinentID": "05",
+        "CountryCode": "CH"
+    },
+    {
+        "CountryID": 207,
+        "CountryNameTH": "SYRIA ARAB REPUBLIC(THE)",
+        "CountryNameEN": "SYRIA ARAB REPUBLIC(THE)",
+        "ContinentID": "01",
+        "CountryCode": "SY"
+    },
+    {
+        "CountryID": 208,
+        "CountryNameTH": "TAHITI",
+        "CountryNameEN": "TAHITI",
+        "ContinentID": "02",
+        "CountryCode": "TA"
+    },
+    {
+        "CountryID": 209,
+        "CountryNameTH": "TAIWAN",
+        "CountryNameEN": "TAIWAN",
+        "ContinentID": "01",
+        "CountryCode": "TW"
+    },
+    {
+        "CountryID": 210,
+        "CountryNameTH": "TAJIKISTAN",
+        "CountryNameEN": "TAJIKISTAN",
+        "ContinentID": "05",
+        "CountryCode": "TJ"
+    },
+    {
+        "CountryID": 211,
+        "CountryNameTH": "TANZANIA",
+        "CountryNameEN": "TANZANIA",
+        "ContinentID": "02",
+        "CountryCode": "TZ"
+    },
+    {
+        "CountryID": 212,
+        "CountryNameTH": "THAILAND",
+        "CountryNameEN": "THAILAND",
+        "ContinentID": "01",
+        "CountryCode": "TH"
+    },
+    {
+        "CountryID": 213,
+        "CountryNameTH": "TOGO",
+        "CountryNameEN": "TOGO",
+        "ContinentID": "02",
+        "CountryCode": "TG"
+    },
+    {
+        "CountryID": 214,
+        "CountryNameTH": "TOKELAU",
+        "CountryNameEN": "TOKELAU",
+        "ContinentID": "02",
+        "CountryCode": "TK"
+    },
+    {
+        "CountryID": 215,
+        "CountryNameTH": "TONGA",
+        "CountryNameEN": "TONGA",
+        "ContinentID": "04",
+        "CountryCode": "TO"
+    },
+    {
+        "CountryID": 216,
+        "CountryNameTH": "TRINIDAD",
+        "CountryNameEN": "TRINIDAD",
+        "ContinentID": "04",
+        "CountryCode": "TR"
+    },
+    {
+        "CountryID": 217,
+        "CountryNameTH": "TRINIDAD.AND TOBAGO",
+        "CountryNameEN": "TRINIDAD.AND TOBAGO",
+        "ContinentID": "04",
+        "CountryCode": "TT"
+    },
+    {
+        "CountryID": 218,
+        "CountryNameTH": "TUNISIA",
+        "CountryNameEN": "TUNISIA",
+        "ContinentID": "02",
+        "CountryCode": "TN"
+    },
+    {
+        "CountryID": 219,
+        "CountryNameTH": "TURKEY",
+        "CountryNameEN": "TURKEY",
+        "ContinentID": "05",
+        "CountryCode": "TR"
+    },
+    {
+        "CountryID": 220,
+        "CountryNameTH": "TURKMENISTAN",
+        "CountryNameEN": "TURKMENISTAN",
+        "ContinentID": "05",
+        "CountryCode": "TM"
+    },
+    {
+        "CountryID": 221,
+        "CountryNameTH": "TURKS AND CAICOS ISLANDS",
+        "CountryNameEN": "TURKS AND CAICOS ISLANDS",
+        "ContinentID": "04",
+        "CountryCode": "TC"
+    },
+    {
+        "CountryID": 222,
+        "CountryNameTH": "TUVALU",
+        "CountryNameEN": "TUVALU",
+        "ContinentID": "01",
+        "CountryCode": "TV"
+    },
+    {
+        "CountryID": 223,
+        "CountryNameTH": "U.A.E",
+        "CountryNameEN": "U.A.E",
+        "ContinentID": "01",
+        "CountryCode": "AE"
+    },
+    {
+        "CountryID": 224,
+        "CountryNameTH": "UGANDA",
+        "CountryNameEN": "UGANDA",
+        "ContinentID": "02",
+        "CountryCode": "UG"
+    },
+    {
+        "CountryID": 225,
+        "CountryNameTH": "UNITED KINGDOM",
+        "CountryNameEN": "UNITED KINGDOM",
+        "ContinentID": "05",
+        "CountryCode": "GB"
+    },
+    {
+        "CountryID": 226,
+        "CountryNameTH": "UKRAINE",
+        "CountryNameEN": "UKRAINE",
+        "ContinentID": "05",
+        "CountryCode": "UA"
+    },
+    {
+        "CountryID": 228,
+        "CountryNameTH": "UNITED STATES MISCELLANEO",
+        "CountryNameEN": "UNITED STATES MISCELLANEO",
+        "ContinentID": "04",
+        "CountryCode": "PU"
+    },
+    {
+        "CountryID": 229,
+        "CountryNameTH": "UNITED STATES VIRGIN ISL.",
+        "CountryNameEN": "UNITED STATES VIRGIN ISL.",
+        "ContinentID": "04",
+        "CountryCode": "VI"
+    },
+    {
+        "CountryID": 230,
+        "CountryNameTH": "URUGUAY",
+        "CountryNameEN": "URUGUAY",
+        "ContinentID": "04",
+        "CountryCode": "UY"
+    },
+    {
+        "CountryID": 231,
+        "CountryNameTH": "U.S.A",
+        "CountryNameEN": "U.S.A",
+        "ContinentID": "03",
+        "CountryCode": "US"
+    },
+    {
+        "CountryID": 232,
+        "CountryNameTH": "UZBEKISTAN",
+        "CountryNameEN": "UZBEKISTAN",
+        "ContinentID": "05",
+        "CountryCode": "UZ"
+    },
+    {
+        "CountryID": 233,
+        "CountryNameTH": "U.S.S.R.",
+        "CountryNameEN": "U.S.S.R.",
+        "ContinentID": "05",
+        "CountryCode": "SU"
+    },
+    {
+        "CountryID": 234,
+        "CountryNameTH": "VANUATU",
+        "CountryNameEN": "VANUATU",
+        "ContinentID": "02",
+        "CountryCode": "VU"
+    },
+    {
+        "CountryID": 235,
+        "CountryNameTH": "VENEZUELA",
+        "CountryNameEN": "VENEZUELA",
+        "ContinentID": "04",
+        "CountryCode": "VE"
+    },
+    {
+        "CountryID": 236,
+        "CountryNameTH": "VIETNAM",
+        "CountryNameEN": "VIETNAM",
+        "ContinentID": "01",
+        "CountryCode": "VN"
+    },
+    {
+        "CountryID": 237,
+        "CountryNameTH": "WAKE ISLAND",
+        "CountryNameEN": "WAKE ISLAND",
+        "ContinentID": "03",
+        "CountryCode": "WK"
+    },
+    {
+        "CountryID": 238,
+        "CountryNameTH": "WALLIS AND FUTUNA ISLANDS",
+        "CountryNameEN": "WALLIS AND FUTUNA ISLANDS",
+        "ContinentID": "05",
+        "CountryCode": "WF"
+    },
+    {
+        "CountryID": 239,
+        "CountryNameTH": "WESTERN SAHARA",
+        "CountryNameEN": "WESTERN SAHARA",
+        "ContinentID": "02",
+        "CountryCode": "EH"
+    },
+    {
+        "CountryID": 240,
+        "CountryNameTH": "YEMEN",
+        "CountryNameEN": "YEMEN",
+        "ContinentID": "01",
+        "CountryCode": "YE"
+    },
+    {
+        "CountryID": 241,
+        "CountryNameTH": "YUGOSLAVIA",
+        "CountryNameEN": "YUGOSLAVIA",
+        "ContinentID": "05",
+        "CountryCode": "YU"
+    },
+    {
+        "CountryID": 242,
+        "CountryNameTH": "ZAIRE",
+        "CountryNameEN": "ZAIRE",
+        "ContinentID": "02",
+        "CountryCode": "ZR"
+    },
+    {
+        "CountryID": 243,
+        "CountryNameTH": "ZAMBIA",
+        "CountryNameEN": "ZAMBIA",
+        "ContinentID": "02",
+        "CountryCode": "ZM"
+    },
+    {
+        "CountryID": 244,
+        "CountryNameTH": "ZARAGOZA",
+        "CountryNameEN": "ZARAGOZA",
+        "ContinentID": "02",
+        "CountryCode": "ZG"
+    },
+    {
+        "CountryID": 245,
+        "CountryNameTH": "ZIMBABWE",
+        "CountryNameEN": "ZIMBABWE",
+        "ContinentID": "02",
+        "CountryCode": "ZW"
+    },
+    {
+        "CountryID": 246,
+        "CountryNameTH": "CRANLEIGH",
+        "CountryNameEN": "CRANLEIGH",
+        "ContinentID": "0",
+        "CountryCode": "CR"
+    },
+    {
+        "CountryID": 247,
+        "CountryNameTH": "MAYOTTE",
+        "CountryNameEN": "MAYOTTE",
+        "ContinentID": "02",
+        "CountryCode": "MA"
+    },
+    {
+        "CountryID": 248,
+        "CountryNameTH": "BOSNIA-HERZEGOVINA",
+        "CountryNameEN": "BOSNIA-HERZEGOVINA",
+        "ContinentID": "05",
+        "CountryCode": "BO"
+    },
+    {
+        "CountryID": 249,
+        "CountryNameTH": "NETHERLANDS ANTILLES",
+        "CountryNameEN": "NETHERLANDS ANTILLES",
+        "ContinentID": "05",
+        "CountryCode": "AN"
+    },
+    {
+        "CountryID": 250,
+        "CountryNameTH": "CANARY ISLAND (SP)",
+        "CountryNameEN": "CANARY ISLAND (SP)",
+        "ContinentID": "02",
+        "CountryCode": "CP"
+    },
+    {
+        "CountryID": 251,
+        "CountryNameTH": "โคโซโว",
+        "CountryNameEN": "โคโซโว",
+        "ContinentID": "05",
+        "CountryCode": "KO"
+    },
+    {
+        "CountryID": 252,
+        "CountryNameTH": "MACEDONIA",
+        "CountryNameEN": "MACEDONIA",
+        "ContinentID": "05",
+        "CountryCode": "MK"
+    },
+    {
+        "CountryID": 264,
+        "CountryNameTH": "พันธมิตรแปซิฟิก (เม็กซิโก ชิลี เปรู โคลอมเบีย)",
+        "CountryNameEN": "Pacific Alliance (Mexico Chile Peru Colombia)",
+        "ContinentID": "04",
+        "CountryCode": "01"
+    },
+    {
+        "CountryID": 265,
+        "CountryNameTH": "สหรัฐอเมริกา",
+        "CountryNameEN": "United States of America",
+        "ContinentID": "03",
+        "CountryCode": "00"
+    },
+    {
+        "CountryID": 266,
+        "CountryNameTH": "สหรัฐอาหรับเมิเรตส์",
+        "CountryNameEN": "United Arab Emirates",
+        "ContinentID": "01",
+        "CountryCode": "UAE"
+    }
+]

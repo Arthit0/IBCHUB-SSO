@@ -1,0 +1,9 @@
+application
+asset->css->page
+asset->js->page
+lang
+system->Route.php
+system->system.php
+
+แก้ 
+https://sso-uat.ditp.go.th/sso/
